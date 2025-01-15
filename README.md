@@ -1,4 +1,5 @@
 # amazon-stats
+ a collection of scripts to convert amazon music listening data into spotify playlists for most listened tracks
  
 ## add_artists
 
